@@ -9,7 +9,7 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
 
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 
 # GEMS FOR UDEMY COURSE
 
